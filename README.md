@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hola Martin
+![Badge](https://bit.ly/icom-badge)
